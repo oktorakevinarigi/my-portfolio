@@ -8,6 +8,9 @@ export const Container = styled.header`
   font-family: var(--font-sf-mono);
   height: 100px;
   padding: 0 2rem;
+  position: absolute;
+  left: 0;
+  right: 0;
 `;
 
 export const Flex = styled.div`

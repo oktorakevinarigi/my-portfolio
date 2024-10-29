@@ -14,6 +14,13 @@ const variables = css`
     --10: 0.625rem; /* 10px */
     --12: 0.75rem; /* 12px */
     --14: 0.875rem; /* 14px */
+    --16: 1rem; /* 16px */
+    --18: 1.125rem; /* 18px */
+    --20: 1.25rem; /* 20px */
+    --24: 1.5rem; /* 24px */
+    --30: 1.875rem; /* 30px */
+    --32: 2rem; /* 32px */
+    --36: 2.25rem; /* 36px */
 
     --fz-2xs: 0.625rem; /* 10px */
     --fz-xs: 0.75rem; /* 12px */
@@ -42,6 +49,7 @@ const variables = css`
 
     --green: #64ffda;
     --slate: #8892b0;
+    --lightest-navy: #233554;
   }
 `;
 

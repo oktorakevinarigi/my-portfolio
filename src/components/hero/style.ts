@@ -1,8 +1,8 @@
 "use client";
 import styled from "styled-components";
 
-export const Container = styled.div`
-  height: calc(100svh - 100px);
+export const Container = styled.section`
+  height: 100svh;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -16,10 +16,10 @@ export const Title = styled.h1`
   margin-left: 2px;
 `;
 
-export const SubTitle = styled.h2<{ color?: string }>`
+export const SubTitle = styled.h2<{ $color?: string }>`
   font-size: 5rem;
   font-weight: 600;
-  color: ${props => props.color};
+  color: ${props => props.$color};
   line-height: 1.1;
 `;
 
