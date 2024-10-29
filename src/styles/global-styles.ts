@@ -24,6 +24,8 @@ body {
   font-family: var(--font-calibre),  "Inter", "San Francisco", "SF Pro Text",
   -apple-system, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-color: #0a192f;
+  color: #ccd6f6;
 }
 
 img, picture, video, canvas, svg {

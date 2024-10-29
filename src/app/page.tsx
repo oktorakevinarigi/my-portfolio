@@ -1,8 +1,14 @@
-import { Text } from "@/components/text";
+import { Hero } from "@/components/hero";
+import { Header } from "@/layouts/header";
+import { SimpleBlock } from "@/layouts/simple-block";
+
 export default function Home() {
   return (
-    <div>
-      <Text />
-    </div>
+    <>
+      <Header />
+      <SimpleBlock>
+        <Hero />
+      </SimpleBlock>
+    </>
   );
 }

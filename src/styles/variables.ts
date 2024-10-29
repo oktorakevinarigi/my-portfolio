@@ -7,6 +7,14 @@ const variables = css`
     --font-mono: var(--font-sf-mono), "Fira Code", "Fira Mono", "Roboto Mono",
       monospace; */
 
+    --2: 0.125rem; /* 2px */
+    --4: 0.25rem; /* 4px */
+    --6: 0.375rem; /* 6px */
+    --8: 0.5rem; /* 8px */
+    --10: 0.625rem; /* 10px */
+    --12: 0.75rem; /* 12px */
+    --14: 0.875rem; /* 14px */
+
     --fz-2xs: 0.625rem; /* 10px */
     --fz-xs: 0.75rem; /* 12px */
     --fz-sm: 0.875rem; /* 14px */
@@ -21,6 +29,19 @@ const variables = css`
     --fz-7xl: 4.5rem; /* 72px */
     --fz-8xl: 6rem; /* 96px */
     --fz-9xl: 8rem; /* 128px */
+
+    --rounded-none: 0px;
+    --rounded-sm: 0.125rem; /* 2px */
+    --rounded: 0.25rem; /* 4px */
+    --rounded-md: 0.375rem; /* 6px */
+    --rounded-lg: 0.5rem; /* 8px */
+    --rounded-xl: 0.75rem; /* 12px */
+    --rounded-2xl: 1rem; /* 16px */
+    --rounded-3xl: 1.5rem; /* 24px */
+    --rounded-full: 9999px;
+
+    --green: #64ffda;
+    --slate: #8892b0;
   }
 `;
 
