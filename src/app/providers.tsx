@@ -2,8 +2,7 @@
 import type { PropsWithChildren } from "react";
 
 import StyledComponentsRegistry from "../libs/registry";
-
-import { GlobalStyles } from "./global-styles";
+import { GlobalStyles } from "../styles/global-styles";
 
 function Providers(props: PropsWithChildren) {
   return (
