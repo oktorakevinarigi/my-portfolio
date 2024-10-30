@@ -24,6 +24,8 @@ const variables = css`
     --36: 2.25rem; /* 36px */
     --40: 2.5rem; /* 40px */
     --42: 2.625rem; /* 42px */
+    --56: 3.25rem; /* 56px */
+    --60: 3.75rem; /* 60px */
 
     --fz-2xs: 0.625rem; /* 10px */
     --fz-xs: 0.75rem; /* 12px */

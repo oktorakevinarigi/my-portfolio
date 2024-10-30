@@ -20,7 +20,7 @@ html, body, #__next {
 }
 
 body {
-  line-height: 1.5;
+  line-height: 1.3;
   font-family: var(--font-calibre),  "Inter", "San Francisco", "SF Pro Text",
   -apple-system, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
