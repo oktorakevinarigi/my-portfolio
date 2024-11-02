@@ -52,9 +52,12 @@ const variables = css`
     --rounded-3xl: 1.5rem; /* 24px */
     --rounded-full: 9999px;
 
+    --transition: transform 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+
     --green: #64ffda;
     --slate: #8892b0;
     --lightest-navy: #233554;
+    --light-slate: #a8b2d1;
   }
 `;
 
